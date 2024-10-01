@@ -40,10 +40,11 @@ Steps to run Locally:
    - npm run dev
   
 4) Go inside Backend Folder and install the dependencies
+    - cd backend
 
     - npm install
 
-5) Run the Backend
+6) Run the Backend
 
    - node app.js
   
